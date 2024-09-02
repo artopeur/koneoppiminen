@@ -35,8 +35,8 @@ def functionx(rangeOfX, h):
   print("h: ", jakaja)
   fxh = (rangeOfX+jakaja)**2 #antaa f(x+h) arvon jokaiseen alkioon
   print("f(x+h)", fxh)
-  deriv = exes + (fxh / jakaja)
-  print("Derivated f(x)+(f(x+h) /h): ", deriv)
+  deriv = ((exes + fxh) / jakaja)
+  print("Derivated (f(x)+f(x+h)) /h: ", deriv)
 
 
   '''
