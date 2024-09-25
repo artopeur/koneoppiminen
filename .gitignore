@@ -4,3 +4,4 @@ share/*
 include/*
 pyvenv.cfg
 data
+audio-recognition
