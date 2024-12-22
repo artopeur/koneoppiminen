@@ -1,0 +1,2 @@
+# koneoppiminen
+Koulun harjoitusprojekti
